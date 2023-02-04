@@ -1,0 +1,239 @@
+body {
+  background-color:black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+  z-index: 10;
+  text-align: center;
+}
+
+.jumbotron .img {
+  align-items: center;
+}
+
+p {
+  font-family: 'Jura', sans-serif;
+}
+
+.jumbotron {
+  height: 500px;
+  height: calc(100vh - 25px);
+  background-image: url(../images/ibizahero.jpg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+}
+
+/* Override the default styles of the Bootstrap carousel */
+.carousel {
+  width: 60%;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.carousel .carousel-item {
+  height: 500px;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:auto;
+}
+
+.carousel .carousel-control-prev,
+.carousel .carousel-control-next {
+  width: 50px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  line-height: 50px;
+  font-size: 20px;
+}
+
+.carousel .carousel-indicators li {
+  background-color: #999;
+}
+
+.carousel .carousel-indicators .active {
+  background-color: #333;
+}
+
+.itinerary-item {
+
+}
+
+.itinerary-item img {
+  float: left;
+  height: 200px;
+  margin: 20px;
+}
+
+.itinerary-item p {
+  margin-top: 20px;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #f5f5f5;
+  margin-top: 50px;
+} 
+.cardContainer {
+  margin-top: 5px;
+  z-index: 3;
+}
+.card {
+  margin: 0 auto;
+  z-index: 3;
+}
+
+.container-fluid h1 {
+  z-index: 3;
+}
+
+.box {
+  width:100%;
+  margin: auto;
+  background-color: white;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-top: 5px;
+  word-wrap: break-word;
+  display: inline-block;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box1 {
+  width:100%;
+  margin: auto;
+  background-color: white;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-top: 5px;
+  word-wrap: break-word;
+  display: inline-block;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box2 {
+  width:100%;
+  margin: auto;
+  background-color:bisque;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-top: 5px;
+  word-wrap: break-word;
+  display: inline-block;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box3 {
+  width:100%;
+  margin: auto;
+  background-color: white;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-top: 5px;
+  word-wrap: break-word;
+  display: inline-block;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box4 {
+  width:100%;
+  margin: auto;
+  background-color: bisque;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-top: 5px;
+  word-wrap: break-word;
+  display: inline-block;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box5 {
+  width:100%;
+  margin: auto;
+  background-color: white;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-top: 5px;
+  word-wrap: break-word;
+  display: inline-block;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box6 {
+  width:100%;
+  margin: auto;
+  background-color:bisque;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-top: 5px;
+  word-wrap: break-word;
+  display: inline-block;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.box .address {
+text-align: center;
+}
+
+.box img {
+  float: left;
+  height: 200px;
+  margin: 20px;
+}
+
+.box1 img {
+  float: left;
+  height: 200px;
+  margin: 20px;
+}
+
+.box2 img {
+  float: right;
+  height: 350px;
+  margin: 20px;
+}
+
+.box3 img {
+  float: left;
+  height: 200px;
+  margin: 20px;
+}
+
+.box4 img {
+  float: right;
+  height: 200px;
+  margin: 20px;
+}
+
+.box5 img {
+  float: left;
+  height: 200px;
+  margin: 20px;
+}​
+
+.box6 img {
+  float: right;
+  height: 200px;
+  margin: 20px;
+}
