@@ -197,31 +197,43 @@ text-align: center;
 }
 
 .box1 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 100px;
-  margin: 20px;
 }
 
 .box2 img {
-  height: 150px;
-  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
 }
 
 .box3 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 100px;
-  margin: 20px;
 }
 
 .box4 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 100px;
-  margin: 20px;
 }
 
 .box5 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 100px;
-  margin: 20px;
 }​
 
 .box6 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 100px;
-  margin: 20px;
 }
