@@ -19,8 +19,7 @@ p {
 }
 
 .jumbotron {
-  height: 500px;
-  height: calc(100vh - 25px);
+  height: 300px;
   background-image: url(../images/ibizahero.jpg);
   display: flex;
   align-items: center;
@@ -117,7 +116,6 @@ footer {
   padding-bottom:10px;
   padding-top: 5px;
   word-wrap: break-word;
-  display: inline-block;
   align-items: center;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -131,7 +129,6 @@ footer {
   padding-bottom:10px;
   padding-top: 5px;
   word-wrap: break-word;
-  display: inline-block;
   align-items: center;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -145,7 +142,6 @@ footer {
   padding-bottom:10px;
   padding-top: 5px;
   word-wrap: break-word;
-  display: inline-block;
   align-items: center;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -159,7 +155,6 @@ footer {
   padding-bottom:10px;
   padding-top: 5px;
   word-wrap: break-word;
-  display: inline-block;
   align-items: center;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -173,7 +168,6 @@ footer {
   padding-bottom:10px;
   padding-top: 5px;
   word-wrap: break-word;
-  display: inline-block;
   align-items: center;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -187,7 +181,6 @@ footer {
   padding-bottom:10px;
   padding-top: 5px;
   word-wrap: break-word;
-  display: inline-block;
   align-items: center;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -204,37 +197,31 @@ text-align: center;
 }
 
 .box1 img {
-  float: left;
-  height: 200px;
+  height: 100px;
   margin: 20px;
 }
 
 .box2 img {
-  float: right;
-  height: 350px;
+  height: 150px;
   margin: 20px;
 }
 
 .box3 img {
-  float: left;
-  height: 200px;
+  height: 100px;
   margin: 20px;
 }
 
 .box4 img {
-  float: right;
-  height: 200px;
+  height: 100px;
   margin: 20px;
 }
 
 .box5 img {
-  float: left;
-  height: 200px;
+  height: 100px;
   margin: 20px;
 }​
 
 .box6 img {
-  float: right;
-  height: 200px;
+  height: 100px;
   margin: 20px;
 }
